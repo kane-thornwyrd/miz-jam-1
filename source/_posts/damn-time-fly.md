@@ -24,7 +24,7 @@ But I want the "_get inside peoples, exit their body while making their head exp
 Or maybe something like the "Waters of Mars" episode of Doctor Who, but less "zombie" and more willy-nilly "Oh I'm infected, oh nevermind, let's meet all my co-workers"…
 
 ## Technical stuffs
-I'll take something like the "single source of truth" path in my code, making a huge `Array` containing about anything that the game require, like inputs, collider's states, etc.
+I'll take something like the "single source of truth" path in my code, making a huge `Dictionary` containing about anything that the game require, like inputs, collider's states, etc.
 
 Here's an example of the `input_state.gd`:
 
